@@ -1,3 +1,3 @@
 h:
-cd h:\Logo8V81
+cd h:\Logo8
 start Linearachse.lnp
