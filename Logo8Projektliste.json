@@ -1,0 +1,44 @@
+﻿{
+    "Logo8Projektliste": [
+        {
+            "LaufendeNummer": 0,
+            "Bezeichnung": "Linearachse",
+            "Kommentar": "Übungsplatte",
+            "Ordner": "PLC_KOP_Linearachse",
+            "Sprache": "Kop",
+            "Kategorie": "Plc",
+            "Job1": "OrdnerInhaltKopieren",
+            "Job2": "CmdDateiAusfuehren"
+        },
+        {
+            "LaufendeNummer": 1,
+            "Bezeichnung": "Motorschaltungen",
+            "Kommentar": "Übungsplatte",
+            "Ordner": "PLC_FUP_Motorschaltungen",
+            "Sprache": "Fup",
+            "Kategorie": "Plc",
+            "Job1": "OrdnerInhaltKopieren",
+            "Job2": "CmdDateiAusfuehren"
+        },
+        {
+            "LaufendeNummer": 2,
+            "Bezeichnung": "Linearachse",
+            "Kommentar": "Übungsplatte",
+            "Ordner": "PLC_FUP_Linearachse",
+            "Sprache": "Fup",
+            "Kategorie": "Plc",
+            "Job1": "OrdnerInhaltKopieren",
+            "Job2": "CmdDateiAusfuehren"
+        },
+        {
+            "LaufendeNummer": 3,
+            "Bezeichnung": "Linearachse",
+            "Kommentar": "Übungsplatte",
+            "Ordner": "BUG_FUP_Linearachse",
+            "Sprache": "Fup",
+            "Kategorie": "Bug",
+            "Job1": "OrdnerInhaltKopieren",
+            "Job2": "CmdDateiAusfuehren"
+        }
+    ]
+}
